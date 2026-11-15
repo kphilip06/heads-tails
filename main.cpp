@@ -3,5 +3,5 @@
 #include "src/factorial.hpp"
 
 int main() {
-  std::cout << "The factorial of 5 is " << factorial(5) << std::endl;
+  std::cout << random(1000, 10, 75);
 }
